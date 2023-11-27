@@ -44,4 +44,4 @@ To use this code for analyzing TESS time-series data, follow these steps:
 7. Simulate an eclipse using `eclipse_function`.
 8. Fit an eclipse model to a subset of data and visualize the fit with `fit_eclipse` and `plot_data_and_fitted_model`.
 
-
+This project was part of the course Programming for Astrophysics & Astronomy at the Universiteit van Amsterdam (UvU), under supervision of Mark Snelders.
