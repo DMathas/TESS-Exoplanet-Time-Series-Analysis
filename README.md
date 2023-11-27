@@ -49,4 +49,4 @@ To use this code for analyzing TESS time-series data, follow these steps:
 
 ## Additional Notes:
 
-This project was part of the course Programming for Astrophysics & Astronomy at the Universiteit van Amsterdam (UvU), under supervision of Mark Snelders.
+This project was part of the course Programming for Astrophysics & Astronomy at the Universiteit van Amsterdam (UvA), under supervision of Mark Snelders.
